@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeusFilmes</string>
+    <string name="dica_busca">nome do filme</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="detalhe_nome">nome:</string>
+    <string name="detalhe_direcao">direcao:</string>
+    <string name="detalhe_descricao">descricao:</string>
+    <string name="detalhe_popularidade">popularidade:</string>
+    <string name="detalhe_lancamento">lancamento:</string>
+</resources>
